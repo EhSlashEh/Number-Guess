@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# commit 3
+
 # Prompt for username
 echo "Enter your username:"
 read username
