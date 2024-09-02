@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# commit 3
+# commit 4
 
 # Prompt for username
 echo "Enter your username:"
